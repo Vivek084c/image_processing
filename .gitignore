@@ -1,2 +1,6 @@
-human_parsing/dataset
-human_parsing/papers
+human_parsing
+YOLO V8/dataset/Categories
+YOLO V8/dataset/input
+YOLO V8/dataset/input_2
+YOLO V8/dataset/labels
+YOLO V8/dataset/yolo dataset
